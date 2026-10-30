@@ -22,7 +22,6 @@ O **Gerador de Imagens com IA** é um site multipágina focado em proporcionar u
 
 - **HTML5:** Estruturação semântica de todas as páginas.
 - **CSS3:** Estilização moderna com Flexbox, CSS Grid e variáveis.
-- **JavaScript (Vanilla):** Manipulação de DOM, interatividade e lógica da aplicação.
 - **Design Responsivo:** Arquivo CSS dedicado (`responsivo.css`) para suporte a telas de diferentes resoluções.
 
 ---
@@ -35,8 +34,6 @@ projeto-gerador-imagens-ia/
 ├── estilos/
 │   ├── estilo.css          # Estilos globais e componentes
 │   └── responsivo.css      # Regras de media queries
-├── scripts/
-│   └── script.js           # Lógica JavaScript e interatividade
 ├── index.html              # Página Inicial
 ├── sobre.html              # Página Sobre
 ├── galeria.html            # Galeria de Imagens
