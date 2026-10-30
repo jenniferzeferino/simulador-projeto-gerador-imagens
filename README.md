@@ -4,7 +4,7 @@ Projeto da disciplina de Introdução a Computação: Uma plataforma web e inter
 
 ---
 
-##Sobre o Projeto
+## Sobre o Projeto
 
 O **Gerador de Imagens com IA** é um site multipágina focado em proporcionar uma experiência fluida de interface para criação e navegação visual. O projeto apresenta o conceito de Inteligência Artificial aplicada à geração de imagens a partir de descrições em texto (*prompts*).
 
