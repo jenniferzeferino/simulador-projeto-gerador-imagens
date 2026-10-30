@@ -8,7 +8,7 @@ Projeto da disciplina de Introdução a Computação: Uma plataforma web e inter
 
 O **Gerador de Imagens com IA** é um site multipágina focado em proporcionar uma experiência fluida de interface para criação e navegação visual. O projeto apresenta o conceito de Inteligência Artificial aplicada à geração de imagens a partir de descrições em texto (*prompts*).
 
-### 🚀 Funcionalidades
+### Funcionalidades
 - **Página Inicial (`index.html`):** Apresentação do projeto, destaques e chamada para ação (*CTA*).
 - **Gerador (`gerar.html`):** Interface interativa para digitação de prompts e geração visual (Fase de simulação).
 - **Galeria (`galeria.html`):** Exposição de imagens geradas com exemplos de prompts utilizados.
