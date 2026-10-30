@@ -1,12 +1,12 @@
-# Simulador de Gerador de Imagens com IA
+# Simulador de Gerador de Imagens
 
-Projeto da disciplina de Introdução a Computação: Uma plataforma web e interativa desenvolvida para explorar a geração de imagens por IA, permitindo aos usuários visualizar galerias de prompts, entender o funcionamento da tecnologia, testar a geração de imagens e entrar em contato.
+Projeto da disciplina de Introdução a Computação: Uma plataforma web e interativa desenvolvida para explorar a geração de imagens, permitindo aos usuários visualizar galerias de imagens, entender o funcionamento da tecnologia, testar a geração de imagens e entrar em contato.
 
 ---
 
 ## Sobre o Projeto
 
-O **Gerador de Imagens com IA** é um site multipágina focado em proporcionar uma experiência fluida de interface para criação e navegação visual. O projeto apresenta o conceito de Inteligência Artificial aplicada à geração de imagens a partir de descrições em texto (*prompts*).
+O **Gerador de Imagens** é um site multipágina focado em proporcionar uma experiência fluida de interface para criação e navegação visual. O projeto é resultado da disciplina de Introdução a Computação e visa o aprendizado e aplicação dos conceitos de HTML, CSS, Versionamento e IHC.
 
 ### Funcionalidades
 - **Página Inicial (`index.html`):** Apresentação do projeto, destaques e chamada para ação (*CTA*).
